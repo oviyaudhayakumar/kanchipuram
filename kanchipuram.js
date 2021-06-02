@@ -81,7 +81,7 @@ const questions = [
     },
 
     {
-        question 10:" This temple is a stand-alone __ with no other temple in its complex ",
+        question:" This temple is a stand-alone __ with no other temple in its complex ",
         optionA: "single temple ",
         optionB: " Large Temple ",
         optionC: " Couple temple ",
